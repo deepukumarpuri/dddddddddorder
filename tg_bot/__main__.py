@@ -22,6 +22,8 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 i am a group manager bot maintained by  [this person](tg://user?id={}).
 
+SUBSURIBE :- https://youtube.com/channel/UC1SeMwgyNDi_n4T8cbgVjKQ
+
 My future updates will be put into This Channel - @rungram & My Support Group @run_gram.
 
 
@@ -42,6 +44,8 @@ Hello! my name *{}*.
  - /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
+
+SUBSURIBE :- https://youtube.com/channel/UC1SeMwgyNDi_n4T8cbgVjKQ
 
 {}
 And the following:
